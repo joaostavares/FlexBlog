@@ -1,5 +1,7 @@
 # FlexBox
 
+Projeto desenvolvido com o intuito de aprender e aprimorar o uso de CSS Flexbox
+
 # Site Completo #
 
 [GitHub Pages](https://joaostavares.github.io/FlexBlog/)
