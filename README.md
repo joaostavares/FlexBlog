@@ -1,6 +1,6 @@
 # FlexBox
 
-Projeto desenvolvido com o intuito de aprender e aprimorar o uso de CSS Flexbox
+Projeto desenvolvido durante o curso de CSS Flexbox da plataforma de ensino Origamid com o intuito de aprender e aprimorar o uso de Flexbox na estilização do site
 
 # Site Completo #
 
